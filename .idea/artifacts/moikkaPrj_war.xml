@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="moikkaPrj:war">
+    <output-path>$PROJECT_DIR$/../moikka/target</output-path>
+    <root id="archive" name="moikkaPrj-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="moikkaPrj:war exploded" />
+    </root>
+  </artifact>
+</component>
